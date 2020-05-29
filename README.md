@@ -27,22 +27,38 @@ Here you can see the data regarding the budget allocated and purchased.
 
 Here are a few sections you need to consider. 
 
-**Choose Country**- Select the country for which you want the data from the drop-down list. 
+**Choose Country** 
 
-**Choose Department**- You can also select the department for which you want the data from the drop-down list.
+Select the country for which you want the data from the drop-down list. 
 
-**Points Purchased**- Here you can see the number of points purchased by your organization.
+**Choose Department** 
 
-**Points Allocated**- This shows the number of points allocated to various managers/departments. 
+You can also select the department for which you want the data from the drop-down list.
 
-**Points Utilized**- This shows the data regarding the number of points utilized by the users.
+**Points Purchased** 
 
-**Remaining Points Available**- Here you are displayed the remaining number of points available.
+Here you can see the number of points purchased by your organization.
+
+**Points Allocated** 
+
+This shows the number of points allocated to various managers/departments. 
+
+**Points Utilized** 
+
+This shows the data regarding the number of points utilized by the users.
+
+**Remaining Points Available** 
+
+Here you are displayed the remaining number of points available.
 
 
 We also have two graphical analytics in this section. 
 
-**Budget Purchased**- This graph shows the monthly or weekly budget purchased by your organization.
+**Budget Purchased** 
 
-**Budget Allocated**- This graph shows the monthly or weekly budget allocated.
+This graph shows the monthly or weekly budget purchased by your organization.
+
+**Budget Allocated** 
+
+This graph shows the monthly or weekly budget allocated.
 
