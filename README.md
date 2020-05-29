@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+In this tab, Admins will get access the **Appreciation Dashboard** and the **Budget Dashboard**. Admins can access these dashboards to get various data and anayltics. 
 
-You can use the [editor on GitHub](https://github.com/vcadmin0001/Analytics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Appreciation Dashboard
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can see the data regarding the appreciation counts. The dashboard screen will display various demographics regarding the appreciation counts. 
 
-### Markdown
+![Appreciation](https://user-images.githubusercontent.com/48199047/83106172-a4b69d00-a0d9-11ea-901a-9c8bb1572e28.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Timeline**
 
-```markdown
-Syntax highlighted code block
+Here you can see the number of appreciation counts either monthly or weekly. The vertical axis denotes the number of appreciations and the horizontal axis denotes the period i.e. either month/week. 
 
-# Header 1
-## Header 2
-### Header 3
+**Department Wise Appreciation Counts**
 
-- Bulleted
-- List
+Here you can see the appreciation counts according to the various departments present in your organization. 
 
-1. Numbered
-2. List
+**Badge Wise Appreciation Counts**
 
-**Bold** and _Italic_ and `Code` text
+This dashboard gives appreciation counts according to the badges created in the “**Create Badge**” section. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Budget Dashboard
 
-### Jekyll Themes
+Here you can see the data regarding the budget allocated and purchased. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vcadmin0001/Analytics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Budget](https://user-images.githubusercontent.com/48199047/83106284-d29be180-a0d9-11ea-9ae2-948660b70591.png)
 
-### Support or Contact
+Here are a few sections you need to consider. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Choose Country**- Select the country for which you want the data from the drop-down list. 
+
+**Choose Department**- You can also select the department for which you want the data from the drop-down list.
+
+**Points Purchased**- Here you can see the number of points purchased by your organization.
+
+**Points Allocated**- This shows the number of points allocated to various managers/departments. 
+
+**Points Utilized**- This shows the data regarding the number of points utilized by the users.
+
+**Remaining Points Available**- Here you are displayed the remaining number of points available.
+
+
+We also have two graphical analytics in this section. 
+
+**Budget Purchased**- This graph shows the monthly or weekly budget purchased by your organization.
+
+**Budget Allocated**- This graph shows the monthly or weekly budget allocated.
+
